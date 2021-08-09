@@ -40,8 +40,8 @@ paginate = 5
   # set Twitter handles for Twitter cards
   # see https://developer.twitter.com/en/docs/tweets/optimize-with-cards/guides/getting-started#card-and-content-attribution
   # do not include @
-  creator = ""
-  site = ""
+  creator = "_r_ush_"
+  site = "https://r-ush.co"
 
 [languages]
   [languages.en]
@@ -60,7 +60,7 @@ paginate = 5
     missingBackButtonLabel = "Back to home page"
 
     [languages.en.params.logo]
-      logoText = "Terminal"
+      logoText = "r-ush's blog"
       logoHomeLink = "/"
 
     [languages.en.menu]
@@ -69,6 +69,6 @@ paginate = 5
         name = "About"
         url = "/about"
       [[languages.en.menu.main]]
-        identifier = "showcase"
-        name = "Showcase"
-        url = "/showcase"
+        identifier = "Find me"
+        name = "Find me"
+        url = "/find-me"
