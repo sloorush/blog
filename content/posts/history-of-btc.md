@@ -18,17 +18,17 @@ _Context_:
 - First no trusted third party P2P e-cash system. (Decentralized)
 - Support from community.
 
-#### Satoshi destroying haters: [link](https://satoshi.nakamotoinstitute.org/emails/cryptography/15/#selection-32.65-117.67)
+#### Satoshi destroying haters: [🔗](https://satoshi.nakamotoinstitute.org/emails/cryptography/15/#selection-32.65-117.67)
 
 > You have an outline and proposal for such a design, which is a big step forward, but the devil is in the little details.
 
 I believe I've worked through all those little details over the last year and a half while coding it, and there were a lot of them.
 
-#### People getting a chance to be a millionare: [link](https://satoshi.nakamotoinstitute.org/emails/cryptography/16/#selection-32.40-99.49)
+#### People getting a chance to be a millionare: [🔗](https://satoshi.nakamotoinstitute.org/emails/cryptography/16/#selection-32.40-99.49)
 
 I made the proof-of-work difficulty ridiculously easy to start with, so for a little while in the beginning a typical PC will be able to generate coins in just a few hours.
 
-- 6th July 2010: Bitcoin v0.3.0 released link
+- 6th July 2010: Bitcoin v0.3.0 released 🔗
   Laszlo Hanyecz (Bitcoin pizza guy) adds support for macOS.
 - 2010: v.3.2
   - **Checkpoints**: Add a checkpoint in the blockchain version as a security safeguard that locks a block height to a specific hash[🔗](https://github.com/bitcoin/bitcoin/commit/4110f33cded01bde5f01a6312248fa6fdd14cc76#diff-118fcbaaba162ba17933c7893247df3aR1344).
@@ -37,7 +37,7 @@ I made the proof-of-work difficulty ridiculously easy to start with, so for a li
   - Used an _alert_ system.
     - Includes a _safe mode_, disabling all money handling RPC methods in the entire network.
   - Issue: Causes a single point of failure
-  - Dec 2010: Last talk with Satoshi [link](https://pastebin.com/syrmi3ET)
+  - Dec 2010: Last talk with Satoshi [🔗](https://pastebin.com/syrmi3ET)
     ![](https://humornama.com/wp-content/uploads/2020/09/Thik-Hai-Bhai-Ab-Main-Chalta-Hu-meme-template-of-Phir-Hera-Pheri.jpg)
 
 ## Without Satoshi
@@ -51,7 +51,7 @@ I made the proof-of-work difficulty ridiculously easy to start with, so for a li
 - 2013 -> bitcoin core.
 - 2015 -> ChaincodeLabs, Blockstream and other companies evolve and the research flourishes with Lightning Whitepaper.
 - 2016 -> Major revolution in the history of blockchain community,
-- Child pays for the parent [link](https://bitcoincore.org/en/2016/08/23/release-0.13.0/)<br>
+- Child pays for the parent [🔗](https://bitcoincore.org/en/2016/08/23/release-0.13.0/)<br>
   ![](https://memegenerator.net/img/instances/62615337/congrats-now-go-get-a-job-and-pay-back-your-parents.jpg)
 - 2017 -> Segwit Accepted.
 - 2019 -> BIP Taproot proposal.
@@ -144,7 +144,7 @@ Notice something yet? My guy just treated himself with 92233720368.54277039 BTC(
 
 - Got invalidated by a soft fork (v.3.10)
 
-### 2013 Bitcoin fork [link](https://freedom-to-tinker.com/2015/07/28/analyzing-the-2013-bitcoin-fork-centralized-decision-making-saved-the-day/)
+### 2013 Bitcoin fork [🔗](https://freedom-to-tinker.com/2015/07/28/analyzing-the-2013-bitcoin-fork-centralized-decision-making-saved-the-day/)
 
 The case when centralization saved the day
 
