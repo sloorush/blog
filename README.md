@@ -9,3 +9,9 @@ How to run?
 ```sh
 hugo server -t terminal
 ```
+
+To add a new blog
+
+```sh
+hugo new posts/new.md
+```
