@@ -28,7 +28,8 @@ after eBPF------>
 
 A small and very relatable analogy can be like <i>eBPF doing to Linux, what javascript did to the web</i>:
 
-<b>The Power of Programmability</b>
+### The Power of Programmability
+
 Let's start with an analogy. Do you remember GeoCities? Twenty years ago, web pages used to be almost exclusively written in static markup language (HTML). A web page was basically a document with an application (browser) able to display it. Looking at web pages today, web pages have become full-blown applications, and web-based technology has replaced a vast majority of applications written in languages requiring compilation. What enabled this evolution?
 
 ![](https://i.imgur.com/FUImfbW.png)
