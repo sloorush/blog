@@ -3,7 +3,7 @@ title = "How to set up a ZNC bouncer for dummies"
 date = "2021-09-13T15:06:35+05:30"
 author = "r-ush"
 authorTwitter = "_r_ush_" #do not include @
-cover = ""
+cover = "https://lh3.googleusercontent.com/proxy/iJ6YP9ntUh9nxFLu2LGHUaPtZwSo7Wg41h-lE8_146sCsBWI-tLbNtareOx1baIvIWI2MqDPmgqFEWdurMrGKL6FfdFWBLD2Q63SFmRA3w4CealzKagF4IPNbrJDmMuOMQckiQ1CnZXL3kns8sA8pWVW6_j_ZYLYzQc"
 tags = ["znc", "irc", "chat"]
 keywords = ["znc", "irc", "linux"]
 description = "A small direct tutorial to configure a ZNC bouncer to be connected to IRC 24x7"
@@ -16,6 +16,8 @@ draft = false
 ## Introduction
 
 ZNC is an IRC network bouncer software. ZNC comes with various modules and features that can cater to your usage requirements.
+
+![ZNC](https://nixfaq.org/wp-content/uploads/2020/08/word-image-5.png)
 
 We will be configuring ZNC with the web interface enabled here. In the web interface, you can create, edit, configure, and remove users from your ZNC instance.
 
