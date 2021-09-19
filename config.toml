@@ -9,7 +9,7 @@ paginate = 10
   contentTypeName = "posts"
 
   # ["orange", "blue", "red", "green", "pink"]
-  themeColor = "orange"
+  themeColor = "green"
 
   # if you set this to 0, only submenu trigger will be visible
   showMenuItems = 2
@@ -50,7 +50,7 @@ paginate = 10
     subtitle = "r-ush blog"
     owner = "Aarush Bhat"
     keywords = ""
-    copyright = "© 2021 Aarush Bhat :: It is free for use"
+    copyright = "© Aarush Bhat :: Licensed under MIT License"
     menuMore = "Show more"
     readMore = "Read more"
     readOtherPosts = "Read other posts"
