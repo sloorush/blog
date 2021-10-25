@@ -40,14 +40,14 @@ paginate = 10
   # set Twitter handles for Twitter cards
   # see https://developer.twitter.com/en/docs/tweets/optimize-with-cards/guides/getting-started#card-and-content-attribution
   # do not include @
-  creator = "_r_ush_"
+  creator = "realsloorush"
   site = "https://r-ush.co"
 
 [languages]
   [languages.en]
     languageName = "English"
-    title = "r-ush's blog"
-    subtitle = "r-ush blog"
+    title = "sloorush's blog"
+    subtitle = "sloorush's blog"
     owner = "Aarush Bhat"
     keywords = ""
     copyright = "© Aarush Bhat :: Licensed under MIT License"
@@ -60,7 +60,7 @@ paginate = 10
     missingBackButtonLabel = "Back to home page"
 
     [languages.en.params.logo]
-      logoText = "r-ush's blog"
+      logoText = "sloorush's blog"
       logoHomeLink = "/"
 
     [languages.en.menu]

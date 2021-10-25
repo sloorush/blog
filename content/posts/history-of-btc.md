@@ -1,12 +1,12 @@
 +++
 title = "The Incomplete History of Bitcoin Development"
 date = "2021-08-09"
-author = "r-ush and Aman"
+author = "sloorush and aman"
 cover = "/img/bitcoin-core.svg"
 description = "Summary of our research about how Bitcoin is what it is now!"
 tags = ["bitcoin", "blockchain"]
 keywords = ["bitcoin", "blockchain", "btc"]
-authorTwitter = "_r_ush_"
+authorTwitter = "realsloorush"
 +++
 
 ## Timeline discussion

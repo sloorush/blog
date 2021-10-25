@@ -1,8 +1,8 @@
 +++
 title = "Linux to bring a laptop back from the dead"
 date = "2020-04-17T18:01:25+05:30"
-author = "r-ush"
-authorTwitter = "_r_ush_" #do not include @
+author = "sloorush"
+authorTwitter = "realsloorush" #do not include @
 cover = "img/linux.jpg"
 tags = ["linux", "old laptop", "opensource"]
 keywords = ["linux", "old laptop", "opensource"]

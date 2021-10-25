@@ -1,8 +1,8 @@
 +++
 title = "How to build an effective portfolio?"
 date = "2020-06-01T18:09:17+05:30"
-author = "r-ush"
-authorTwitter = "_r_ush_" #do not include @
+author = "sloorush"
+authorTwitter = "realsloorush" #do not include @
 cover = "https://miro.medium.com/max/1400/1*yu949tR119Yz74imrI1z9w.jpeg"
 tags = ["react", "showdev", "portfolio", "webdev"]
 keywords = ["react", "showdev", "portfolio", "webdev"]

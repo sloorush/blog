@@ -1,8 +1,8 @@
 +++
 title = "How to set up a ZNC bouncer for dummies"
 date = "2021-09-13T15:06:35+05:30"
-author = "r-ush"
-authorTwitter = "_r_ush_" #do not include @
+author = "sloorush"
+authorTwitter = "realsloorush" #do not include @
 cover = "img/znc.jpg"
 tags = ["znc", "irc", "chat"]
 keywords = ["znc", "irc", "linux"]

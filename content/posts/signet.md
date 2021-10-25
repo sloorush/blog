@@ -1,7 +1,7 @@
 +++
 title = "Okay, but what exactly is Signet?"
 date = "2021-08-10"
-author = "r-ush"
+author = "sloorush"
 cover = "img/signet.png"
 authorTwitter = "_r_ush_"
 tags = ["bitcoin", "signet", "blockchain"]
