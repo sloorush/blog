@@ -106,12 +106,13 @@ Okay, sorry for the bad pun. Bye Bye!
 
 ### Read More about Observability and M.E.L.T.:
 
-- https://newrelic.com/platform/telemetry-data-101
+- [New Relic - Telemetry data 101](https://newrelic.com/platform/telemetry-data-101)
 
-- https://itbrief.com.au/story/demystifying-m-e-l-t-the-key-data-for-business-observability
+- [Demystifying M.E.L.T.](https://itbrief.com.au/story/demystifying-m-e-l-t-the-key-data-for-business-observability)
 
-- https://www.dynatrace.com/news/blog/what-is-observability-2/
+- [Dyna Trance - What is Observability?](https://www.dynatrace.com/news/blog/what-is-observability-2/)
 
-- https://www.ibm.com/cloud/learn/observability
+- [IBM Observability](https://www.ibm.com/cloud/learn/observability)
 
-- https://www.merriam-webster.com/dictionary/why
+- [Merriam Webster - "Why"](https://www.merriam-webster.com/dictionary/why)
+
