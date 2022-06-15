@@ -2,10 +2,11 @@
 title = "M.E.L.T. - 4 Pillars of Observability"
 date = "2022-02-09"
 author = "sloorush"
-cover = "img/melt/melt-cloud.jpg"
 description = "Data, data, data, and observing this data!"
 draft = false
 +++
+
+![melt](../../img/melt/melt-cloud.jpg)
 
 Before I come to what M.E.L.T. stands for, I must explain why.
 
@@ -115,4 +116,3 @@ Okay, sorry for the bad pun. Bye Bye!
 - [IBM Observability](https://www.ibm.com/cloud/learn/observability)
 
 - [Merriam Webster - "Why"](https://www.merriam-webster.com/dictionary/why)
-

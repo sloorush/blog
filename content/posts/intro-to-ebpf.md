@@ -2,10 +2,11 @@
 title = "Intro to eBPF"
 date = "2021-08-24"
 author = "sloorush"
-cover = "img/ebpf.png"
 description = "eBPF is a revolutionary technology with origins in the Linux kernel that can run sandboxed programs in an operating system kernel."
 draft = false
 +++
+
+![ebpf](../../img/ebpf.png)
 
 ## What is eBPF?
 

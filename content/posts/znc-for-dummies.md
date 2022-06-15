@@ -3,7 +3,6 @@ title = "How to set up a ZNC bouncer for dummies"
 date = "2021-09-13T15:06:35+05:30"
 author = "sloorush"
 authorTwitter = "realsloorush" #do not include @
-cover = "img/znc.jpg"
 tags = ["znc", "irc", "chat"]
 keywords = ["znc", "irc", "linux"]
 description = "A small direct tutorial to configure a ZNC bouncer to be connected to IRC 24x7"
@@ -12,6 +11,8 @@ draft = false
 +++
 
 > IRC, IRC, How old are you IRC? IRC was created by Jarkko Oikarinen in August 1988
+
+![IRC meme](../../img/znc.jpg)
 
 ## Introduction
 

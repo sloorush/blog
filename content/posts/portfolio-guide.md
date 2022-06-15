@@ -3,7 +3,7 @@ title = "How to build an effective portfolio?"
 date = "2020-06-01T18:09:17+05:30"
 author = "sloorush"
 authorTwitter = "realsloorush" #do not include @
-cover = "https://miro.medium.com/max/1400/1*yu949tR119Yz74imrI1z9w.jpeg"
+cover = ""
 tags = ["react", "showdev", "portfolio", "webdev"]
 keywords = ["react", "showdev", "portfolio", "webdev"]
 description = "Every developer must have a portfolio website; it gives them a platform where they can post all their work in one place and show their general skills."
@@ -12,6 +12,8 @@ draft = false
 +++
 
 # How to build a compelling portfolio?
+
+![portfolio](https://miro.medium.com/max/1400/1*yu949tR119Yz74imrI1z9w.jpeg)
 
 Every developer must have a portfolio website; it gives them a platform where they can post all their work in one place and show their general skills.
 

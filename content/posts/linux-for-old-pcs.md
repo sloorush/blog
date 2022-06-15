@@ -3,13 +3,14 @@ title = "Linux to bring a laptop back from the dead"
 date = "2020-04-17T18:01:25+05:30"
 author = "sloorush"
 authorTwitter = "realsloorush" #do not include @
-cover = "img/linux.jpg"
 tags = ["linux", "old laptop", "opensource"]
 keywords = ["linux", "old laptop", "opensource"]
 description = "A small guide on what OS you can install on a very old and incapable machine to make the most of it"
 showFullContent = false
 draft = false
 +++
+
+![linux penguin](../../img/linux.jpg)
 
 So, recently, mostly because of the quarantine, i started of a 10 year old Sony Viao (i3, 4Gb ram). It had a windows 7 but since the past 4 years, nobody had even touched the lid of the laptop.
 

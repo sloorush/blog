@@ -2,13 +2,14 @@
 title = "Okay, but what exactly is Signet?"
 date = "2021-08-10"
 author = "sloorush"
-cover = "img/signet.png"
 authorTwitter = "_r_ush_"
 tags = ["bitcoin", "signet", "blockchain"]
 keywords = ["bitcoin", "signet", "blockchain"]
 description = "Signet is a smaller, more centralized btc net made for being safe from the 10000 block re-orgs and unreliability of the testnet"
 draft = false
 +++
+
+![signet illustration from the original release on IRC](../../img/signet.png)
 
 This is a log of my research while adding signet support to [utreexo](https://github.com/mit-dci/utreexo)
 
