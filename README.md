@@ -1,7 +1,6 @@
-# Blog's by sloorush
+# Blogs by sloorush
 
 ![blogs](https://user-images.githubusercontent.com/54478821/144747271-d4bd6894-c6a5-4109-be69-b0486c79a224.png)
-
 
 I just log my process and progress with stuff i'm doing
 
