@@ -6,7 +6,7 @@ author = "sloorush"
 
 # Find me!
 
-Email me at [hey@sloorush.com](mailto:hey@sloorush.com)
+Email me at [hey [at] sloorush [dot] com](mailto:hey@sloorush.com)
 
 You can find me on the internet as sloorush:
 
