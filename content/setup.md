@@ -24,7 +24,9 @@ The other stuff on the desk includes:
 
 - iPad Mini 5: I also have an iPad mini 5, I mostly use it for reading and writing with the apple pencil.
 
-- Cannon 800D - Super cool, bang for buck camera. I have it since 2017 and I love it.
+- Ledget Nano S: To store my bitcoin. HODL!
+
+- Cannon 800D: Super cool, bang for buck camera. I have it since 2017 and I love it.
 
 # Software
 
