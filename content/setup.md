@@ -4,6 +4,8 @@ date = "2021-12-05"
 author = "sloorush"
 +++
 
+> Updated: 25/10/22
+
 # Hardware
 
 My laptop is a Asus Tuf fx505. 16GB Memory, 256GB SSD, 1TB HDD, Nvidia GEFORCE GTX 1650.
