@@ -8,7 +8,7 @@ tags = ["APL", "programing language review"]
 keywords = ["APL", "programing language review"]
 description = "A language that doesn’t affect the way you think about programming is not worth knowing. –Alan Perlis"
 showFullContent = false
-draft = false
+draft = true
 +++
 
 Part 1 of this series in which I will rate all the programming languages as I try them.
